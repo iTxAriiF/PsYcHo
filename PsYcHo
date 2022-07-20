@@ -25,7 +25,7 @@ print ("\033[092m")
 import os
 os.system("clear")
 import os
-os.system("lolcat X-BannaR ")
+os.system("lolcat BeNar ")
 
 word = str(input("\t\t\t [ "+cyan+" ➙ "+green+" ] "))
 word = str(input(red+"\t\t\t [ "+cyan+" ➙ "+red+" ] "))
